@@ -1,1 +1,6 @@
-The entity type we have marked up is adjectives. Since our documents are student reviews of professors, it is relevant to know which adjectives are used to describe the class, work, and/or professor. For example, this data could be used for downstream sentiment analysis. We marked them up using <+>...</> tags for positive instances (i.e. adjectives) and <->...</> tags for negative instances.
+The entity type we have marked up is adjectives. Since our documents
+are student reviews of professors, it is relevant to know which
+adjectives are used to describe the class, work, and/or professor. For
+example, this data could be used for downstream sentiment analysis. We
+marked them up using <+>...</> tags for positive instances
+(i.e. adjectives) and <->...</> tags for negative instances.
