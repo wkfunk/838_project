@@ -1,0 +1,1 @@
+Of the 533 labeled tuple pairs, I contained 373 (70%) of those tuples.
