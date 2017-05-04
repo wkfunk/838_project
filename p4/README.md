@@ -1,3 +1,3 @@
 - a CSV file storing Table E: `E.csv`
-- the set of matches between Tables A and B (these matches should be stored in a single file): `all.csv`
+- the set of matches between Tables A and B (these matches should be stored in a single file): `pairs.csv`
 - the Python script that you used to merge the two tables A and B: `data_merging.py`
